@@ -1,6 +1,6 @@
 ###  :man_technologist:  [WangNingkai](https://wangningkai.github.io)
 
-👋 Hi, I'm WangNingkai,a passionate self-taught backend developer from China 🚀. 
+👋 Hi, I'm KOKOROG,a developer from Bulgaria 🚀. 
 
 [![WangNingkai's github stats](https://github-readme-stats.vercel.app/api?username=wangningkai&count_private=true&show_icons=true&theme=radical)](https://github.com/WangNingkai)
 
